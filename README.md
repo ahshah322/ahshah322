@@ -100,6 +100,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" height="50" alt="sql server managment studio logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
