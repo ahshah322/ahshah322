@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" height="50" alt="c logo"  />
+  <img src="https://github.com/user-attachments/assets/d84113ff-4067-435f-9349-a20cf7456867" height="50" alt="c logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
