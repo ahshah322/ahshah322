@@ -22,7 +22,7 @@
 <div align="left">
   <img src="https://github.com/user-attachments/assets/d84113ff-4067-435f-9349-a20cf7456867" height="50" alt="c logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
@@ -42,15 +42,19 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core-300x300.png" height="50" alt="dotnetcore logo"  />
+  <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core-300x300.png" height="50" alt="dotnet core logo"  />
   <img width="12" />
-  <img src="https://damienbod.com/wp-content/uploads/2024/01/brandblazor_nohalo_1000x.png" height="50" alt="dotnetcore logo"  />
+  <img src="./assets/blazor-logo.png" height="50" alt="blazor logo"  />
   <img width="12" />
-  <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" height="50" alt="angularjs logo"  />
+  <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" height="50" alt="mudblazor logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
+  <img src="./assets/radzen-logo.jpg" height="50" alt="radzen logo"  />
+  <img width="12" />
+  <img src="./assets/angular-logo.png" height="50" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="./assets/nextjs-logo.jpg" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
   <img width="12" />
@@ -76,9 +80,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="google cloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoft sqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
@@ -96,11 +100,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
+  <img src="./assets/visual-studio-icon-2026.webp" height="50" alt="visual studio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" height="50" alt="sql server managment studio logo"  />
+  <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&ssl=1" height="50" alt="sql server management studio logo"  />
+  <img width="12" />
+  <img src="./assets/chatgpt-logo.jpg" height="50" alt="chatgpt logo"  />
+  <img width="12" />
+  <img src="./assets/claude-code-logo.png" height="50" alt="claude code logo"  />
+  <img width="12" />
+  <img src="./assets/cursor-logo.png" height="50" alt="cursor logo"  />
+  <img width="12" />
+  <img src="./assets/antigravity-logo.png" height="50" alt="antigravity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <img width="12" />
@@ -113,44 +125,60 @@
 
 ###
 
-<div align="left">
-   <a href="https://www.linkedin.com/in/ahshah322/" target="_blank"
-      ><img
-         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="52"
-         height="40"
-         alt="linkedin logo" /></a
-   ><a href="mailto:ahshah2211@gmail.com" target="_blank"
-      ><img
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-         width="50"
-         height="40"
-         alt="gmail logo" /></a
-   ><a href="https://www.facebook.com/ahshah322" target="_blank"
-      ><img
-         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-         width="52"
-         height="40"
-         alt="facebook logo" /></a
-   ><a href="https://www.instagram.com/ahshah322" target="_blank"
-      ><img
-         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="52"
-         height="40"
-         alt="instagram logo" /></a
-   ><a href="https://x.com/ahshah322" target="_blank"
-      ><img
-         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-         width="52"
-         height="40"
-         alt="twitter logo" /></a
-   ><a href="https://www.youtube.com/@ahshah322" target="_blank"
-      ><img
-         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-         width="52"
-         height="40"
-         alt="youtube logo"
-   /></a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahshah322/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="40"
+      height="40"
+      alt="LinkedIn"
+  /></a>&nbsp;&nbsp;
+  <a href="mailto:ahshah2211@gmail.com" target="_blank"
+    ><img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+      width="50"
+      height="40"
+      alt="Gmail"
+  /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ahshah322" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+      width="40"
+      height="40"
+      alt="Facebook"
+  /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahshah322" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="40"
+      height="40"
+      alt="Instagram"
+  /></a>&nbsp;&nbsp;
+  <a href="https://x.com/ahshah322" target="_blank"
+    ><picture
+      ><source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://cdn.simpleicons.org/x/ffffff"
+      /><img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+        width="40"
+        height="40"
+        alt="X"
+  /></picture></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ahshah322" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+      width="40"
+      height="40"
+      alt="YouTube"
+  /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/923196989322" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+      width="40"
+      height="40"
+      alt="WhatsApp"
+  /></a>
+</p>
 
 ###
