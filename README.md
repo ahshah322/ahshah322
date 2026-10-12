@@ -114,6 +114,8 @@
   <img width="12" />
   <img src="./assets/antigravity-logo.png" height="50" alt="antigravity logo"  />
   <img width="12" />
+  <img src="./assets/n8n-logo.jpg" height="50" alt="n8n logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
